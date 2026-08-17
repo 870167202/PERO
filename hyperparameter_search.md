@@ -12,9 +12,6 @@ best-performing configuration reported in the paper.
 - **Selection criterion.** For each baseline, we perform a grid search over its
   method-specific hyperparameter(s) and select the configuration with the best
   validation-set **accuracy**.
-- **Search budget.** <!-- TODO: e.g., "each candidate value is run with 1 seed" or
-     "averaged over N seeds" — fill in what was actually done -->
-  **[TODO: number of seeds / runs used per candidate value during search]**.
 - **Scope.** Each hyperparameter value is searched once and shared across all
   benchmark datasets (i.e., not re-tuned per dataset).
 - Random Selection and ERM have no method-specific hyperparameters and are
