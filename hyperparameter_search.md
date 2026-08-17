@@ -80,4 +80,3 @@ best-performing configuration reported in the paper.
 - All best-performing values above are shared across the three main
   benchmarks (USTC-TFC, ISCX-VPN-Service, ISCX-VPN-App); hyperparameters
   were not re-tuned per dataset.
-- <!-- TODO: fill in search budget (number of seeds/runs per candidate value) -->
