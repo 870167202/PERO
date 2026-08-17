@@ -12,6 +12,8 @@ Full proofs of the theorems in the main paper are provided in [`Supplementary_Ma
 
 ## Running PERO
 
+Before running PERO, please obtain the `models` directory, including the pre-trained model and vocabulary files, from the official [ET-BERT repository](https://github.com/linwhitehat/ET-BERT/tree/main) and place it in the root directory of this project.
+
 To run PERO on the ISCX-VPN App dataset, use:
 
 ```bash
